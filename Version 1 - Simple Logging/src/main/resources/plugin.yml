@@ -1,0 +1,5 @@
+name: FirstPlugin
+version: 1.0-SNAPSHOT
+main: com.marcdif.firstplugin.Main
+author: Marc
+description: This is my first Spigot plugin!
